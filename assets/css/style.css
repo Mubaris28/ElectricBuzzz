@@ -969,6 +969,10 @@ body.guides-page { background: #28404f; }
   .footer-wrp .ftr-logo { display: none; }
 }
 @media (max-width: 600px) {
+  .sect7-wrp .sect7-col1 img {
+      height: 50%;
+      width: auto;
+    }
   img.desktop-only { display: none; }
   .serv-sect1-wrp .serv-sect1-col2 img { height: 693px; margin-right: -30px; width: 79%; }
   .serv-sect1-wrp .serv-sect1-row .col-md-4 .serv-sect1-col2 { background: none; }
